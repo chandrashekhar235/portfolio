@@ -112,42 +112,42 @@ export const projects = [
     demoUrl: "https://chandrashekhar235.github.io/writespace/",
     githubUrl: "https://github.com/chandrashekhar235/writespace"
   },
-  {
-    id: "techstore",
-    title: "TechStore",
-    subtitle: "Interactive E-Commerce Web Application for High-End Tech Gadgets",
-    category: "Full Stack",
-    image: "/projects/techstore.jpg",
-    featured: true,
-    tags: ["JavaScript", "HTML5", "CSS3", "State Management", "Node.js"],
-    description: "A sleek consumer electronics e-commerce web platform offering dynamic product filtering, slide-out shopping cart drawer, live price calculations, and responsive checkout flows.",
-    highlights: [
-      "Dynamic filtering by device category, brand, and pricing tier",
-      "Persistent interactive shopping cart with quantity toggles and real-time total updates",
-      "Fluid micro-animations, glassmorphic badges, and product zoom interactions",
-      "Optimized mobile-first UI with intuitive navigation and tactile touch controls"
-    ],
-    demoUrl: "https://github.com/chandrashekhar235/techstore",
-    githubUrl: "https://github.com/chandrashekhar235/techstore"
-  },
-  {
-    id: "foundrai",
-    title: "FoundrAI Studio",
-    subtitle: "AI Startup Accelerator Platform with OAuth & JWT Security",
-    category: "Full Stack",
-    image: "/projects/writespace.jpg",
-    featured: false,
-    tags: ["React", "Node.js", "Express", "Google OAuth", "JWT", "Bcrypt"],
-    description: "An AI studio platform empowering early-stage entrepreneurs to draft business models and manage startup assets with enterprise-grade authentication and session security.",
-    highlights: [
-      "Google OAuth 2.0 and JWT token authentication pipeline",
-      "Bcrypt password hashing and secure cookie-based session persistence",
-      "Modular dashboard architecture with analytics overview",
-      "Protected API route middleware ensuring role authorization"
-    ],
-    demoUrl: "https://github.com/chandrashekhar235",
-    githubUrl: "https://github.com/chandrashekhar235"
-  }
+  // {
+  //   id: "techstore",
+  //   title: "TechStore",
+  //   subtitle: "Interactive E-Commerce Web Application for High-End Tech Gadgets",
+  //   category: "Full Stack",
+  //   image: "/projects/techstore.jpg",
+  //   featured: true,
+  //   tags: ["JavaScript", "HTML5", "CSS3", "State Management", "Node.js"],
+  //   description: "A sleek consumer electronics e-commerce web platform offering dynamic product filtering, slide-out shopping cart drawer, live price calculations, and responsive checkout flows.",
+  //   highlights: [
+  //     "Dynamic filtering by device category, brand, and pricing tier",
+  //     "Persistent interactive shopping cart with quantity toggles and real-time total updates",
+  //     "Fluid micro-animations, glassmorphic badges, and product zoom interactions",
+  //     "Optimized mobile-first UI with intuitive navigation and tactile touch controls"
+  //   ],
+  //   demoUrl: "https://github.com/chandrashekhar235/techstore",
+  //   githubUrl: "https://github.com/chandrashekhar235/techstore"
+  // },
+  // {
+  //   id: "foundrai",
+  //   title: "FoundrAI Studio",
+  //   subtitle: "AI Startup Accelerator Platform with OAuth & JWT Security",
+  //   category: "Full Stack",
+  //   image: "/projects/writespace.jpg",
+  //   featured: false,
+  //   tags: ["React", "Node.js", "Express", "Google OAuth", "JWT", "Bcrypt"],
+  //   description: "An AI studio platform empowering early-stage entrepreneurs to draft business models and manage startup assets with enterprise-grade authentication and session security.",
+  //   highlights: [
+  //     "Google OAuth 2.0 and JWT token authentication pipeline",
+  //     "Bcrypt password hashing and secure cookie-based session persistence",
+  //     "Modular dashboard architecture with analytics overview",
+  //     "Protected API route middleware ensuring role authorization"
+  //   ],
+  //   demoUrl: "https://github.com/chandrashekhar235",
+  //   githubUrl: "https://github.com/chandrashekhar235"
+  // }
 ];
 
 export const journeyMilestones = [
