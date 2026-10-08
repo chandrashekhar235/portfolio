@@ -95,23 +95,32 @@ export const projects = [
     githubUrl: "https://github.com/chandrashekhar235/learn-bridge"
   },
   {
-    id: "writespace",
-    title: "WriteSpace",
-    subtitle: "Modern Markdown Publishing Platform & CMS Engine",
-    category: "Web App",
-    image: "/projects/writespace.jpg",
-    featured: true,
-    tags: ["HTML5", "CSS3", "JavaScript", "Node.js", "Express", "REST APIs"],
-    description: "A clean, high-performance publishing engine tailored for developers and writers. Features instant markdown parsing, syntax highlighting, reading time estimations, and SEO meta generation.",
-    highlights: [
-      "Real-time dual-pane markdown editor with instant preview and syntax highlighting",
-      "Dynamic reading time calculations and engagement counters",
-      "SEO-friendly metadata generation with automated social sharing cards",
-      "Lightweight, zero-dependency client footprint for lightning fast page loads"
-    ],
-    demoUrl: "https://chandrashekhar235.github.io/writespace/",
-    githubUrl: "https://github.com/chandrashekhar235/writespace"
-  },
+  id: "foundrai",
+  title: "FoundrAI",
+  subtitle: "AI-Powered Startup Analysis & Validation Platform",
+  category: "AI / SaaS",
+  image: "/projects/writespace.jpg",
+  featured: true,
+  tags: [
+    "Next.js",
+    "TypeScript",
+    "Node.js",
+    "Express",
+    "PostgreSQL",
+    "Prisma",
+    "Python",
+    "Machine Learning"
+  ],
+  description: "An AI-powered SaaS platform that analyzes startup ideas using machine learning and similarity-based knowledge retrieval to provide structured startup insights.",
+  highlights: [
+    "B2B/B2C startup classification using TF-IDF and Logistic Regression",
+    "Similarity-based knowledge retrieval from structured startup and market datasets",
+    "Python AI engine integrated with Node.js/Express through JSON-based inter-process communication",
+    "Secure authentication using JWT, bcrypt, PostgreSQL/Prisma, and Google OAuth"
+  ],
+  demoUrl: "https://foundrai-indol.vercel.app/",
+  githubUrl: "https://github.com/chandrashekhar235/foundrai"
+},,
   // {
   //   id: "techstore",
   //   title: "TechStore",
