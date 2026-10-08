@@ -6,7 +6,7 @@ export const personalInfo = {
   location: "Delhi, India",
   email: "sahiljoshi399@gmail.com",
   phone: "+91 6005518186",
-  resumeUrl: "https://drive.google.com/file/d/1NAucLYKhxdNruJd0kMqiKAcBjqs7iMV7/view?usp=drive_link",
+  resumeUrl: "https://drive.google.com/file/d/1hzzJm1ss8KoaKsomtbUuWagRATPYBTlV/view?usp=sharing",
   github: "https://github.com/chandrashekhar235",
   linkedin: "https://www.linkedin.com/in/chandra-shekhar-a29789284",
   typewriterRoles: [
